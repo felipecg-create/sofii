@@ -146,8 +146,7 @@
       "llevo tanto amandote que fuiste la primera vez que me habia enamorado 💖",
       "el amarte me a dado lo mejor de mi vida y nunca me voy a rendir amore🌹",
       "Eres mi inspiración,mi fuerza,mi luz,MI TODO 💕",
-      "Siempre te voy a amar hasta el dia que me muera
-	  💞"
+      "Siempre te voy a amar hasta el dia que me muera💞"
     ];
 
     function mostrar(i) {
